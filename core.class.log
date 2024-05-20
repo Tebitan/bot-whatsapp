@@ -1,0 +1,294 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '573183918087@s.whatsapp.net',
+    fromMe: false,
+    id: '76F6BE5EA75ECEC794',
+    participant: undefined
+  },
+  messageTimestamp: 1716232862,
+  pushName: 'esteban navas01',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage { text: 'hola', contextInfo: [ContextInfo] },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'hola',
+  from: '573183918087'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_b4732b82-19d2-44ea-8604-2899cfe1879e',
+  keyword: 'key_42ee887e-d753-4cc6-aea4-63533d35856d',
+  answer: '🙌 Hola bienvenido a Olímpico Fishing Store Colombia 🎣',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 100,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '969d1f72d059755f7481950bb1cd52b4'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_30ebc20e-7af3-434b-b441-8872924d3cab',
+  keyword: 'ans_b4732b82-19d2-44ea-8604-2899cfe1879e',
+  answer: 'te comparto nuestro Menu de Opciones\n' +
+    '👉 1️⃣ para ver portafolio\n' +
+    '👉 2️⃣ para realizar una compra\n' +
+    '👉 3️⃣ Para realizar una consulta\n' +
+    '👉 4️⃣ Para participar en el sorteo',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'dc7777e5430a8e57bd2468cb4c8197eb'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573183918087@s.whatsapp.net',
+    fromMe: false,
+    id: '95F34545D1D6854122',
+    participant: undefined
+  },
+  messageTimestamp: 1716232877,
+  pushName: 'esteban navas01',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage { text: '1', contextInfo: [ContextInfo] },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '1',
+  from: '573183918087'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_a0ab969f-0eb2-4724-b20c-876460814841',
+  keyword: 'key_a91065d3-3b8c-44e6-a441-3b439e07fe1a',
+  answer: '📄 Nuestro portafolio',
+  options: {
+    media: 'https://fedepesca.org/wp-content/uploads/2014/12/GUIA-ARTES-DE-PESCA.pdf',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '4ca1634c3799ae9705976b6ef13a0596'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573183918087@s.whatsapp.net',
+    fromMe: false,
+    id: '97EFD4E7B351D647E1',
+    participant: undefined
+  },
+  messageTimestamp: 1716232929,
+  pushName: 'esteban navas01',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage { text: 'hola', contextInfo: [ContextInfo] },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'hola',
+  from: '573183918087'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_b4732b82-19d2-44ea-8604-2899cfe1879e',
+  keyword: 'key_42ee887e-d753-4cc6-aea4-63533d35856d',
+  answer: '🙌 Hola bienvenido a Olímpico Fishing Store Colombia 🎣',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 100,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '969d1f72d059755f7481950bb1cd52b4'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_30ebc20e-7af3-434b-b441-8872924d3cab',
+  keyword: 'ans_b4732b82-19d2-44ea-8604-2899cfe1879e',
+  answer: 'te comparto nuestro Menu de Opciones\n' +
+    '👉 1️⃣ para ver portafolio\n' +
+    '👉 2️⃣ para realizar una compra\n' +
+    '👉 3️⃣ Para realizar una consulta\n' +
+    '👉 4️⃣ Para participar en el sorteo',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'dc7777e5430a8e57bd2468cb4c8197eb'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573183918087@s.whatsapp.net',
+    fromMe: false,
+    id: 'BD825A5FCD1C0B75F67E550A30E4C08D',
+    participant: undefined
+  },
+  messageTimestamp: 1716232946,
+  pushName: 'esteban navas01',
+  broadcast: false,
+  message: Message {
+    conversation: '1',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '1',
+  from: '573183918087'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_a0ab969f-0eb2-4724-b20c-876460814841',
+  keyword: 'key_a91065d3-3b8c-44e6-a441-3b439e07fe1a',
+  answer: '📄 Nuestro portafolio',
+  options: {
+    media: 'https://fedepesca.org/wp-content/uploads/2014/12/GUIA-ARTES-DE-PESCA.pdf',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '4ca1634c3799ae9705976b6ef13a0596'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573183918087@s.whatsapp.net',
+    fromMe: false,
+    id: '4684793F3302838FB7',
+    participant: undefined
+  },
+  messageTimestamp: 1716233085,
+  pushName: 'esteban navas01',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage { text: 'hola', contextInfo: [ContextInfo] },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'hola',
+  from: '573183918087'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_b4732b82-19d2-44ea-8604-2899cfe1879e',
+  keyword: 'key_42ee887e-d753-4cc6-aea4-63533d35856d',
+  answer: '🙌 Hola bienvenido a Olímpico Fishing Store Colombia 🎣',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 100,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '969d1f72d059755f7481950bb1cd52b4'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_30ebc20e-7af3-434b-b441-8872924d3cab',
+  keyword: 'ans_b4732b82-19d2-44ea-8604-2899cfe1879e',
+  answer: 'te comparto nuestro Menu de Opciones\n' +
+    '👉 1️⃣ para ver portafolio\n' +
+    '👉 2️⃣ para realizar una compra\n' +
+    '👉 3️⃣ Para realizar una consulta\n' +
+    '👉 4️⃣ Para participar en el sorteo',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'dc7777e5430a8e57bd2468cb4c8197eb'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573183918087@s.whatsapp.net',
+    fromMe: false,
+    id: 'E131D2767E7EBB75CA',
+    participant: undefined
+  },
+  messageTimestamp: 1716233104,
+  pushName: 'esteban navas01',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage { text: '1', contextInfo: [ContextInfo] },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '1',
+  from: '573183918087'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_a0ab969f-0eb2-4724-b20c-876460814841',
+  keyword: 'key_a91065d3-3b8c-44e6-a441-3b439e07fe1a',
+  answer: '📄 Nuestro portafolio',
+  options: {
+    media: 'https://fedepesca.org/wp-content/uploads/2014/12/GUIA-ARTES-DE-PESCA.pdf',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '4ca1634c3799ae9705976b6ef13a0596'
+}
